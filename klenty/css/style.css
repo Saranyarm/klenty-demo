@@ -1,0 +1,420 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+/*common classes*/
+.clear{
+	clear: both;
+}
+.common-h2{
+	color: #120155;
+	font-weight: 400;
+	letter-spacing: 0.01em;
+	line-height: 60px;
+	font-family: 'Paytone One';
+	font-style: normal;
+	position: absolute;
+}
+
+.common-subhead{
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 500;
+	line-height: 30px;
+	letter-spacing: 0.01em;
+	position: absolute;
+	color: #343434;
+} /*propel,s1 and s2*/
+
+.common-left-nav{
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 24px;
+	text-align: center;
+	color: #05034E;
+	position: absolute;
+	top: 48px;
+	height: 24px;
+	text-decoration: none;
+}
+.menu{
+	float: right;
+	width: 80%;
+}
+.top-bar{
+	position: absolute;
+	width: 100%;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+	z-index: 99;
+	background: #FFFFFF;
+}
+.nav.navbar.bootsnav {
+    background-color: transparent;
+    border-bottom: transparent;
+}
+.wrapper{
+	position: absolute;
+	width: 1502px;
+	height: 705px;
+	left: -36px;
+	top: 781px;
+	background: linear-gradient(180deg, rgba(235, 246, 255, 0) -12.61%, 
+		#EBF6FF 50.78%, rgba(235, 246, 255, 0) 114.7%);
+}
+
+.header1{
+	width: 477px;
+	height: 120px;
+	left: 125px;
+	top: 264px;
+	font-size: 46px;
+}/*don't just integrate*/
+
+.header2{
+	width: 357px;
+	height: 60px;
+	left: 550px;
+
+	font-size: 40px;
+	text-align: center;
+} /*CRM acceleration*/
+
+.header3{
+	width: 649px;
+	height: 60px;
+	left: 500px;
+	top: 1550px;
+	font-size: 30px;
+}
+
+.icon{
+	position: absolute;
+	width: 65px;
+	height: 55px;
+	left: 340px;
+	top: 1666px;
+	
+}
+.header-col1{
+	float: left;
+	width: 70%;
+}
+.header-col2{
+	float: right;
+	width: 30%;
+}
+.group-img{
+	position: absolute;
+	width: 375.91px;
+	height: 443.17px;
+	left: 830px;
+	top: 218px;
+}
+.p1{
+	width: 585px;
+	height: 90px;
+	left: 125px;
+	top: 408px;
+	font-size: 18px;
+}/*propel paragraph*/
+
+.p2{
+	position: absolute;
+	width: 521px;
+	height: 121px;
+	left: 340px;
+	top: 1750px;
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 40px;
+	color: #120155;
+}
+
+.img1{
+	position: absolute;
+	width: 263.75px;
+	height: 327.17px;
+	left: 980px;
+	top: 1650px;
+	border-radius: 24px 0px 0px 0px;
+}
+
+.s1{
+	font-size: 18px;
+	width: 655px;
+	height: 30px;
+	left: 400px;
+	top: 84px;
+	text-align: center;
+}
+
+.s2{
+	font-size: 16px;	
+	width: 335px;
+	height: 150px;
+	top: 170px;
+}
+
+.box-s2{
+	left: 20px;
+}
+
+/*.box2-s2{
+	left: 20px;
+}
+
+.box3-s2{
+	left: 20px;
+}*/
+
+.box-heading{
+	position: absolute;
+	width: 335px;
+	height: 60px;
+	top: 90px;
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 30px;
+	letter-spacing: 0.01em;
+	color: #120155;
+}
+/*.box1-heading{
+	left: 149px;
+}
+
+.box2-heading{
+	left: 553px;
+}
+
+.box3-heading{
+	left: 956px;
+}*/
+.cnt-info-col{
+	float: right;
+	text-align: right;
+	width: 25%;
+}
+.box{
+	position: absolute;
+	width: 383px;
+	height: 366px;
+	top: 150px;
+	background: #FFFFFF;
+	box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.08);
+	border-radius: 20px;
+}
+
+.box1{
+	left: 180px;
+}
+.box2{
+	left: 580px;
+}
+.box3{
+	left: 980px;
+}
+
+.box-img{
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	top: 20px;
+}
+
+.nav1{
+	width: 71px;
+	left: 208px;	
+}
+.nav2{
+	width: 57px;
+	left: 305px;	
+}
+.nav3{
+	width: 105px;
+	left: 388px;
+}
+.nav4{
+	width: 85px;
+	left: 519px;	
+}
+.nav5{
+	width: 141px;
+	left: 630px;	
+}
+.nav-col{
+	float: left;
+	width: 75%;
+}
+.login{
+	position: absolute;
+	width: 52px;
+	height: 25px;
+	left: 1026px;
+	top: 48px;
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 25px;
+	text-decoration: none;
+	/* identical to box height */
+	text-align: center;
+	color: #05034E;
+}
+.button{
+	
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 21px;
+/* Inside auto layout */
+
+	flex: none;
+	order: 0;
+	flex-grow: 0;
+	margin: 0px 10px;
+
+}
+.secondary-button{
+	width: 115px;
+	height: 21px;
+	left: 16px;
+	top: 12px;
+	text-transform: capitalize;
+	color: #5856CE;
+	}
+.secondary-outbox{
+	position: absolute;
+	width: 130px;
+	left: 1120px;
+	top: 36px;
+	height: 45px;
+	background: #FFFFFF; 
+	border-color: #5856CE; 
+	box-shadow: unset;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding: 2px 4px;
+	border-radius: 4px;
+	/*text-transform: capitalize;
+	color: #5856CE;*/
+}
+.primary-button{
+	width: 98px;
+	height: 21px;
+	left: 16px;
+	top: 12px;
+	font-size: 12px;
+/* identical to box height */
+	letter-spacing: 0.04em;
+	text-transform: uppercase;
+	color: #FFFFFF;
+
+}
+.primary-outbox{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	padding: 12px 16px;
+	position: absolute;
+	height: 45px;
+	background-color: #5856CE;
+	border-color: #5856CE;
+	box-shadow: currentColor;
+	border-radius: 4px;
+	/*letter-spacing: 0.04em;
+	text-transform: uppercase;
+	color: #FFFFFF;*/
+}
+.p-outbox1{
+	
+	width: 130px;
+	left: 1272px;
+	top: 36px;
+}
+.p-outbox2{
+
+	width: 129px;
+	left: 125px;
+	top: 538px;
+}
+.big-logo{
+	position: absolute;
+	width: 128.06px;
+	height: 60px;
+	left: 39px;
+	top: 21px;
+	background: url(Big Logo.png), url(Big Logo.png);
+}
+.logo{
+	float: left;
+	width: 20%;
+}
+.img-responsive{
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+
+.footer{
+	position: absolute;
+	left: 450px;
+	height: 22px;
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-size: 16px;
+	line-height: 22px;
+	/* identical to box height */
+	color: #000000;
+}
+.footer-top{
+	width: 114px;
+	top: 1950px;
+	font-weight: 600;
+}
+.footer-bottom{
+	width: 235px;
+	top: 1980px;
+	font-weight: 400;
+}
+.line1{
+	position: absolute;
+	width: 48px;
+	height: 0px;
+	left: 410px;
+	top: 1972px;
+	border: 1px solid #202020;
+	transform: rotate(90deg);
+}
+.logo1{
+	position: absolute;
+	width: 80px;
+	height: 50px;
+	left: 320px;
+	top: 1950px;
+}
+
+.slideshow{
+	width: 100%;
+	height: 100vh;
+	position: relative;
+	overflow: hidden;
+}
+.slideshow-item{
+	width: inherit;
+	height: inherit;
+	position: absolute;
+	opacity: 0;
+}
